@@ -4,7 +4,7 @@ class Player {
     this.type = type;
   }
   introduce() {
-    console.log(`HI i am ${this.name} and i am a ${this.type}`);
+    console.log(`HI i am ${this.name} and i amaa a ${this.type}`);
   }
 }
 
